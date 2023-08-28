@@ -432,6 +432,12 @@ span {
         }
     }
 
+    @media (max-width:425px) {
+        .typing-animation {
+            font-size: 16px;
+        }
+    }
+
 @media (max-width:376px) {
     .typing-animation {
         font-size: 14px;
