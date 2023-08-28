@@ -409,7 +409,7 @@ span {
 
   @font-face {
     font-family: "myfont";
-    src: url("Fonts/electroharmonix.otf") format("opentype");
+    src: url("electroharmonix.otf") format("opentype");
   }
 
 .typing-animation {
