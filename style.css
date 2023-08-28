@@ -929,6 +929,7 @@ color: #333;
 
 .web-box {
     display: flex;
+    justify-content: center;
 }
 
 @media (max-width:768px) {
