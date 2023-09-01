@@ -988,6 +988,16 @@ dt {
     margin-top: 100px;
 }
 
+.work-pdf {
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: bold;
+    color:#333;
+}
+
+.work-pdf:hover {
+    color: #ff0000;
+}
+
 /*---------------------------------- other.html -----------------------*/
 @media (max-width:768px) {
     .other-title {
